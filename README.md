@@ -18,6 +18,7 @@
 
 <li>Simply download Add Subtitle plugin, activate it, and begin adding subtitle into your posts and pages today.</li>
 </ul>
+
 ## Get Involved 
   [ViitorCloud](https://viitorcloud.com/) believes in an active community support so with such plugins we try to make life easy for developers & of course customers. Don't forget to subscribe our newsletter.
 
@@ -27,16 +28,19 @@
 <li>Activate the plugin through the 'Plugins' menu in WordPress</li>
 <li> After activation, you can go through wordpress post/page backend.</li>
 </ul>
+
 ## Frequently Asked Questions 
 <ul>
  <li>How can I use this plugin?</li>
  <li>You can find input option below page/post title to add subtitle.</li>
 </ul>
+
 ## Changelog 
 <ul>
 <li>1.1.0  * First public release.</li>
 <li>1.1.0  * Custom post type support.</li>
 </ul>
+
 ## Upgrade Notice
 <ul>
 <li>1.1.0 Added plugin support</li>
